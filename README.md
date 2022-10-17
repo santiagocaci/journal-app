@@ -1,6 +1,8 @@
 # Journal App
 
-Aplicacion para subir, borrar y editar notas e imagenes con backend en Firebase
+Aplicacion para subir, borrar y editar notas e imagenes con backend en Firebase.
+
+Link al proyecto https://journal-app-sc.netlify.app/
 
 ## Tecnologias
 
